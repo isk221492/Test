@@ -30,4 +30,7 @@ public class lesson5_6_8 {
         System.out.println(cnt);
 
     }
+
 }
+
+<<<<<<<HEAD}=======}>>>>>>>d423c5967a637de9ac83292365b5499e16cc995f
